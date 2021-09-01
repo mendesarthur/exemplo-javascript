@@ -1,2 +1,2 @@
 ﻿# exemplo-javascript
- feita no curso ProgWeb senac -Prof Salmo jr
+ feito no curso ProgWeb senac -Prof Salmo jr 
